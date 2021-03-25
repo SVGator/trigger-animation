@@ -1,0 +1,36 @@
+<html>
+    <head>
+      <style>
+        body {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: space-evenly;
+          height: 100%;
+          background: #142e37;
+        }
+        button {
+          font-size: 20px;
+          height: 100px;
+          width: 200px;
+          border-radius: 5px;
+          background: lightblue;
+        }
+        button:hover {
+          background: rgb(60, 255, 252);
+        }
+      </style>
+      <script>
+        function playAnimation() {
+          a = document.getElementById("animated-svg");
+          b = a.contentDocument;
+          c = b.getElementById("e6flsqoxhzzs1");
+          c.dispatchEvent(new Event("click"));
+        }
+      </script>
+    </head>
+    <body>
+    <button onclick="playAnimation()" type="button">Start Animation</button>
+    <object id="animated-svg" type="image/svg+xml" data="./logo.svg"></object>
+  </body>
+</html>
