@@ -12,4 +12,8 @@ This is a sample project of how to start an SVG animation using a button.
 
 ## Documentation
 
-You can also read more on our [help center](https://www.svgator.com/help/getting-started/trigger-the-svg-animation-manually-using-javascript).
+Find more information in our [help center](https://www.svgator.com/help/getting-started):
+* [Trigger the SVG Animation Manually from Javascript](https://www.svgator.com/help/getting-started/trigger-the-svg-animation-manually-using-javascript)
+* [Animate Programatically](https://www.svgator.com/help/getting-started/animate-programmatically)
+* [SVGator Player JS API](https://www.svgator.com/help/getting-started/svgator-player-js-api)
+
