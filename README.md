@@ -16,4 +16,3 @@ Find more information in our [help center](https://www.svgator.com/help/getting-
 * [Trigger the SVG Animation Manually from Javascript](https://www.svgator.com/help/getting-started/trigger-the-svg-animation-manually-using-javascript)
 * [Animate Programatically](https://www.svgator.com/help/getting-started/animate-programmatically)
 * [SVGator Player JS API](https://www.svgator.com/help/getting-started/svgator-player-js-api)
-
